@@ -1,0 +1,16 @@
+<meta>    
+define release
+release = koreOS/libs/release.nxt
+<script-srl=koreOs>"found koreOs</script>    
+start
+if koreOS = release.nxt in ipairs
+then
+mysql:query start '2' times
+if mysql:query=boolean 
+then
+mysql:select, floating.message-kore table
+if table=[0]
+then
+zonik gay
+end
+</meta>
